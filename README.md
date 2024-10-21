@@ -1,2 +1,2 @@
 # ProyectoFinal_FindYourMood
- Proyecto Final Curso Meta Spark "Find Your Mood"
+ Final Project Meta Spark Course "Find Your Mood"
